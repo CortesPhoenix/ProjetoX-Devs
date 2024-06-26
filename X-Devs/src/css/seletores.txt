@@ -1,0 +1,32 @@
+seletor de tag
+ tag{
+
+}
+Ex:
+p{
+
+}
+
+Seletor de classe
+.nomedaclasse
+
+Ex:
+.cabecalho{
+
+}
+
+Seletor Universal
+*{
+
+}
+
+Seletor de Descendente (Usado para elementos dentro de outra tag)
+ul li{
+
+}
+
+# (Indica ID)
+. (Indica classe)
+
+
+
